@@ -10573,6 +10573,11 @@ p.lead {
   font-size: 3rem;
 }
 
+.dev-icons li img {
+  width: 100px;
+  height: 100px;
+}
+
 section.resume-section {
   display: flex;
   align-items: center;
